@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Balochistan Technical Education and Vocational Training Authority - Empowering youth through quality technical education and vocational training programs.">
+    <meta name="keywords"
+        content="B-TEVTA, Balochistan, Technical Education, Vocational Training, Skills Development, Pakistan">
+    <title>B-TEVTA - Balochistan Technical Education and Vocational Training Authority</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-bar-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-phone"></i>
+                        <span>081-2870875</span>
+                    </div>
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <span>info@btevta.gob.pk</span>
+                    </div>
+                </div>
+                <div class="social-links">
+                    <a href="#" class="social-link" aria-label="Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="#" class="social-link" aria-label="Twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="#" class="social-link" aria-label="YouTube">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                    <a href="#" class="social-link" aria-label="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="#" class="social-link" aria-label="LinkedIn">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <!-- Logo and Title Section -->
+        <div class="header-top">
+            <div class="container">
+                <div class="header-top-content">
+                    <div class="logo-section">
+                        <img src="C:/Users/hp 840g6/.gemini/antigravity/brain/a0d7d387-1a10-4682-a45b-b31d044fc534/uploaded_image_1764944861315.png"
+                            alt="B-TEVTA Logo" class="logo-img">
+                        <div class="site-title">
+                            <h1>BALOCHISTAN TECHNICAL EDUCATION AND VOCATIONAL TRAINING AUTHORITY</h1>
+                            <span class="subtitle">B-TEVTA</span>
+                        </div>
+                    </div>
+
+                    <div class="header-actions">
+                        <div class="lang-toggle">
+                            <button class="lang-btn active">EN</button>
+                            <button class="lang-btn">اردو</button>
+                        </div>
+                        <a href="#" class="btn btn-primary btn-sm">
+                            <i class="fas fa-sign-in-alt"></i>
+                            <span>Login</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navigation Bar -->
+        <div class="header-nav">
+            <div class="container">
+                <div class="nav-container">
+                    <nav class="nav-menu" id="navMenu">
+                        <div class="nav-item">
+                            <a href="#" class="nav-link active">
+                                <i class="fas fa-home"></i>
+                                <span>Home</span>
+                            </a>
+                        </div>
+
+                        <div class="nav-item">
+                            <a href="#" class="nav-link">
+                                <span>About</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </a>
+                            <div class="dropdown-menu">
+                                <a href="#" class="dropdown-item">Overview</a>
+                                <a href="#" class="dropdown-item">Team</a>
+                                <a href="#" class="dropdown-item">Vision & Mission</a>
+                            </div>
+                        </div>
+
+                        <div class="nav-item">
+                            <a href="#" class="nav-link">
+                                <span>Programs</span>
+                                <i class="fas fa-chevron-down"></i>
+                            </a>
+                            <div class="dropdown-menu">
+                                <a href="#" class="dropdown-item">Courses</a>
+                                <a href="#" class="dropdown-item">Projects</a>
+                                <a href="#" class="dropdown-item">Entrepreneurship</a>
+                            </div>
+                        </div>
+
+                        <div class="nav-item">
+                            <a href="#" class="nav-link">
+                                <span>Tenders</span>
+                            </a>
+                        </div>
+
+                        <div class="nav-item">
+                            <a href="#" class="nav-link">
+                                <span>Downloads</span>
+                            </a>
+                        </div>
+
+                        <div class="nav-item">
+                            <a href="#" class="nav-link">
+                                <span>Gallery</span>
+                            </a>
+                        </div>
+
+                        <div class="nav-item">
+                            <a href="#" class="nav-link">
+                                <span>Contact</span>
+                            </a>
+                        </div>
+                    </nav>
+
+                    <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    </a>
+    <a href="#" class="social-link" aria-label="YouTube">
+        <i class="fab fa-youtube"></i>
+    </a>
+    <a href="#" class="social-link" aria-label="Instagram">
+        <i class="fab fa-instagram"></i>
+    </a>
+    <a href="#" class="social-link" aria-label="LinkedIn">
+        <i class="fab fa-linkedin-in"></i>
+    </a>
+    </div>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="footer-section">
+        <h3>Quick Links</h3>
+        <div class="footer-links">
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>About Us</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>Courses</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>Admissions</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>Tenders</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>Downloads</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Programs -->
+    <div class="footer-section">
+        <h3>Programs</h3>
+        <div class="footer-links">
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>DigiBiz</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>Overseas Employment Program</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>Balochistan Education Project</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>TTC (Technical Training Center)</span>
+            </a>
+            <a href="#" class="footer-link">
+                <i class="fas fa-chevron-right"></i>
+                <span>VTC (Vocational Training Center)</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Contact Info -->
+    <div class="footer-section">
+        <h3>Contact Us</h3>
+        <div class="footer-links">
+            <div class="footer-link" style="cursor: default; padding-left: 0;">
+                <i class="fas fa-map-marker-alt"></i>
+                <span>355/125-B, Jinnah Town, Samungli Road, Quetta, Balochistan, Pakistan</span>
+            </div>
+            <div class="footer-link" style="cursor: default; padding-left: 0;">
+                <i class="fas fa-phone"></i>
+                <span>081-2870875</span>
+            </div>
+            <div class="footer-link" style="cursor: default; padding-left: 0;">
+                <i class="fas fa-envelope"></i>
+                <span>info@btevta.gob.pk</span>
+            </div>
+            <div class="footer-link" style="cursor: default; padding-left: 0;">
+                <i class="fas fa-clock"></i>
+                <span>Mon - Fri: 9:00 AM - 5:00 PM</span>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; 2025 B-TEVTA - Balochistan Technical Education and Vocational Training Authority. All rights
+            reserved.</p>
+    </div>
+    </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+
+</html>
